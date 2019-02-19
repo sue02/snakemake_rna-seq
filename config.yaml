@@ -1,0 +1,4 @@
+gtf:
+    annotation: ref.gtf
+htseq:
+    counts: /out/counts
